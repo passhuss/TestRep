@@ -2,6 +2,7 @@
 
 #include "askname.h"
 
+//test
 int main(int argc, char **argv)
 {
     char first[255], last[255];
